@@ -77,8 +77,8 @@ body, ul, li, p, a, label, input, div {
 .text-muted { color: #bcbcbc !important;}
 .text-success { color: #6E4B3A !important;}
 .text-light { color: #cfd6e1 !important;}
-.bg-dark { background-image: url(/Llaneros/templatemo_559_zay_shop/assets/img/Fondo1.jpg) !important;}
-.bg-light { background-image: url(/Llaneros/templatemo_559_zay_shop/assets/img/Fondo2.jpg) !important;}
+.bg-dark { background-image: url(/assets/img/Fondo1.jpg) !important;}
+.bg-light { background-image: url(/assets/img/Fondo2.jpg) !important;}
 .bg-black { background-color: #000 !important;}
 .bg-success { background-color: #6E4B3A !important;}
 .btn-success {
